@@ -4,3 +4,4 @@
 #### What happened?
 ##### Do your job.
 ###### OK
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
